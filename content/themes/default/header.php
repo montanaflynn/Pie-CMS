@@ -24,4 +24,5 @@
 					<li><a href="<?php echo rand(0,10); ?>">404 Example</a></li>
 				</ul>
 			</nav>
+			<img src="<?php echo $theme_path; ?>/assets/img/piecms-logo.png" alt="PieCMS - Tastes so good"/>
 	  </header>

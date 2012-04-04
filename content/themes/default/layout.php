@@ -1,9 +1,9 @@
 <?php require('header.php'); ?>
 
-  <div role="main">
+  <section class="content">
 	
 	<?php require($page); ?>
-
-  </div>
+	
+  </section>
 
 <?php require('footer.php'); ?>

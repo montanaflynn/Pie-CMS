@@ -77,11 +77,10 @@ body {
 }
 
 #container {
-	width: 300px;
+	width: 360px;
 	background: #fff;
 	border-left: 1px solid #eee;
 	border-right: 1px solid #eee;
-	padding:30px;
 	margin: 0 auto;
 }
 
@@ -89,6 +88,17 @@ nav ul li {
 	display: inline;
 	margin-right:20px;
 	text-align:center;
+}
+
+nav, section.content {
+	padding: 30px;
+}
+
+footer {
+	background: #eee;
+	border-top:1px solid #ccc;
+	text-align:center;
+	color: #999;
 }
 
 
